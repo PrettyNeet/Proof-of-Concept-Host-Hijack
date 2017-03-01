@@ -1,0 +1,8 @@
+﻿  RegEdit.cpp
+RegEdit.cpp(16): warning C4129: 'W': unrecognized character escape sequence
+RegEdit.cpp(16): warning C4129: 'S': unrecognized character escape sequence
+RegEdit.cpp(16): warning C4129: 'd': unrecognized character escape sequence
+RegEdit.cpp(16): warning C4129: 'e': unrecognized character escape sequence
+RegEdit.cpp(16): warning C4129: 'h': unrecognized character escape sequence
+RegEdit.cpp(16): error C2664: 'BOOL CopyFileW(LPCWSTR,LPCWSTR,BOOL)': cannot convert argument 1 from 'const char [6]' to 'LPCWSTR'
+  RegEdit.cpp(16): note: Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
